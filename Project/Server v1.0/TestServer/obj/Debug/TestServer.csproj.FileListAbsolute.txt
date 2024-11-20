@@ -1,0 +1,6 @@
+c:\users\omran\documents\visual studio 2013\Projects\TestServer\TestServer\bin\Debug\TestServer.exe.config
+c:\users\omran\documents\visual studio 2013\Projects\TestServer\TestServer\obj\Debug\TestServer.csprojResolveAssemblyReference.cache
+c:\users\omran\documents\visual studio 2013\Projects\TestServer\TestServer\bin\Debug\TestServer.exe
+c:\users\omran\documents\visual studio 2013\Projects\TestServer\TestServer\bin\Debug\TestServer.pdb
+c:\users\omran\documents\visual studio 2013\Projects\TestServer\TestServer\obj\Debug\TestServer.exe
+c:\users\omran\documents\visual studio 2013\Projects\TestServer\TestServer\obj\Debug\TestServer.pdb

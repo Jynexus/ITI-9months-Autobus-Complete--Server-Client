@@ -1,0 +1,24 @@
+c:\users\omran\documents\visual studio 2013\Projects\mytestserver\mytestserver\bin\Debug\mytestserver.exe.config
+c:\users\omran\documents\visual studio 2013\Projects\mytestserver\mytestserver\bin\Debug\mytestserver.exe
+c:\users\omran\documents\visual studio 2013\Projects\mytestserver\mytestserver\bin\Debug\mytestserver.pdb
+c:\users\omran\documents\visual studio 2013\Projects\mytestserver\mytestserver\obj\Debug\mytestserver.csprojResolveAssemblyReference.cache
+c:\users\omran\documents\visual studio 2013\Projects\mytestserver\mytestserver\obj\Debug\mytestserver.exe
+c:\users\omran\documents\visual studio 2013\Projects\mytestserver\mytestserver\obj\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestServer v1.5\mytestserver\bin\Debug\mytestserver.exe.config
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestServer v1.5\mytestserver\obj\Debug\mytestserver.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestServer v1.5\mytestserver\obj\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestServer v1.5\mytestserver\bin\Debug\mytestserver.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestServer v1.5\mytestserver\bin\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestServer v1.5\mytestserver\obj\Debug\mytestserver.csprojResolveAssemblyReference.cache
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\ServerCurrent\mytestserver\bin\Debug\mytestserver.exe.config
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\ServerCurrent\mytestserver\obj\Debug\mytestserver.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\ServerCurrent\mytestserver\obj\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\ServerCurrent\mytestserver\bin\Debug\mytestserver.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\ServerCurrent\mytestserver\bin\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\ServerCurrent\mytestserver\obj\Debug\mytestserver.csprojResolveAssemblyReference.cache
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\Server\mytestserver\bin\Debug\mytestserver.exe.config
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\Server\mytestserver\obj\Debug\mytestserver.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\Server\mytestserver\obj\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\Server\mytestserver\bin\Debug\mytestserver.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\Server\mytestserver\bin\Debug\mytestserver.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\Server\mytestserver\obj\Debug\mytestserver.csprojResolveAssemblyReference.cache

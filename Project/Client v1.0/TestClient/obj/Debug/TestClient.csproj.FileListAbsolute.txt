@@ -1,0 +1,12 @@
+c:\users\omran\documents\visual studio 2013\Projects\TestClient\TestClient\bin\Debug\TestClient.exe.config
+c:\users\omran\documents\visual studio 2013\Projects\TestClient\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+c:\users\omran\documents\visual studio 2013\Projects\TestClient\TestClient\bin\Debug\TestClient.exe
+c:\users\omran\documents\visual studio 2013\Projects\TestClient\TestClient\bin\Debug\TestClient.pdb
+c:\users\omran\documents\visual studio 2013\Projects\TestClient\TestClient\obj\Debug\TestClient.exe
+c:\users\omran\documents\visual studio 2013\Projects\TestClient\TestClient\obj\Debug\TestClient.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestClient v1.0\TestClient\bin\Debug\TestClient.exe.config
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestClient v1.0\TestClient\obj\Debug\TestClient.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestClient v1.0\TestClient\obj\Debug\TestClient.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestClient v1.0\TestClient\bin\Debug\TestClient.exe
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestClient v1.0\TestClient\bin\Debug\TestClient.pdb
+D:\iTi\MATERIAL\Programming - Visual C# .NET\Project\TestClient v1.0\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
